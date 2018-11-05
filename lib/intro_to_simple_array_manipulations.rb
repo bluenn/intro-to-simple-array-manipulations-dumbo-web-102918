@@ -59,4 +59,4 @@ end
 def using_delete_at(array, index)
   array.delete(index)
   #returns deleted element at that index
-end  
+end
