@@ -31,3 +31,7 @@ array.shift(2)
 #in this example we remove 2 elements
 #returns the deleted elements!!
 end
+
+def using_concat(array1, array2)
+  array1.concat(array2)
+end  
