@@ -23,4 +23,4 @@ end
 def using_shift(array)
   array.shift
   #returns deleted first item!!
-end  
+end
