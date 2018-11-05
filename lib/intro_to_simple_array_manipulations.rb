@@ -12,3 +12,9 @@ def using_pop(array)
   array.pop
   #returns deleted element!!
 end
+
+def pop_with_arg(array, amount)
+array.pop(amount)
+#the argument specifies how many elements, counting from the back of the array, to remove.
+#returns the deleted elements!!
+end  
