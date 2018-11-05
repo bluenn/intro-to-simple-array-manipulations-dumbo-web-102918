@@ -24,3 +24,10 @@ def using_shift(array)
   array.shift
   #returns deleted first item!!
 end
+
+def shift_with_args(array)
+array.shift(2)
+#the argument specifies how many elements, counting from the front of the array, to remove.
+#in this example we remove 2 elements
+#returns the deleted elements!!
+end
